@@ -1,7 +1,7 @@
 # movie-webapp
 simple web app using webpack for module bundler and fetch api with ajax concept
 
-### How to run the project locally
+### How to run the project in local
 
 1. install dependencies 
 ```
