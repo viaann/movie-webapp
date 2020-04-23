@@ -7,7 +7,7 @@ simple web app using webpack for module bundler and fetch api with ajax concept
 ```
 npm install
 ```
-2. run the projects locally
+2. run the project
 ```
 npm run start-dev
 ```
