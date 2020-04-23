@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>Movie</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+    </head>
+    <body>
+        <header>
+            <app-bar></app-bar>
+            <div class="jumbotron jumbotron-fluid bg-primary text-white background">
+                <div class="container">
+                  <h1 class="display-4" style="font-weight: bold;">Welcome,</h1>
+                  <p class="lead">Millions of movies, TV shows and people to discover. Explore now.</p>
+                </div>
+            </div>
+        </header>
+        <main>
+            <div class="title">Now Playing</div>
+            <div class="overflow-auto" style="margin-left: 30px;">
+                <div id="listNowPlaying" class="list-group list-group-horizontal"></div>
+            </div>
+
+            <div class="title">Upcoming Movies</div>
+            <div class="overflow-auto" style="margin-left: 30px;">
+                <div id="listUpcoming" class="list-group list-group-horizontal"></div>
+            </div>
+
+            <div class="title">What's Popular</div>
+            <div class="overflow-auto" style="margin-left: 30px; margin-bottom: 20px;">
+                <div id="listPopular" class="list-group list-group-horizontal"></div>
+            </div>
+        </main>        
+        <footer>
+            <p>Belajar Fundamental Front-End Web Development &#169; 2020, Dicoding Academy</p>
+        </footer>
+    </body>
+</html>
