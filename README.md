@@ -7,11 +7,15 @@ simple web app using webpack for module bundler and fetch api with ajax concept
 ```
 npm install
 ```
-2. run the project
+2. add your own api key from https://www.themoviedb.org/ on 'src/script/main.js'
+```
+const key = "CHANGE THIS STRING WITH YOUR API KEY";
+```
+3. run the project
 ```
 npm run start-dev
 ```
-3. open the website
+4. open the website
 ```
 http://localhost:8080/
 ```
