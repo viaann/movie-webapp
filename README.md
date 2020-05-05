@@ -22,5 +22,5 @@ http://localhost:8080/
 
 
 ### Preview
-<img src="https://user-images.githubusercontent.com/40884680/81101308-25013c80-8f38-11ea-8958-7a39a728e167.PNG" width=20%>
+<img src="https://user-images.githubusercontent.com/40884680/81101308-25013c80-8f38-11ea-8958-7a39a728e167.PNG" width=50%>
 
